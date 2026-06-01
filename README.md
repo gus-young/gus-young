@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @gus-young
-- 👀 I’m interested in Cloud Engineering, Cyber Security, DevOps, and DevSecOps
-- 🌱 I’m currently learning Git, Linux, CI/CD, and AWS
+👋 Hi, I'm Gus
 
+🤖 Focused on AI/ML engineering — working through the math fundamentals
+   (linear algebra, calculus) and building toward AWS AI and NVIDIA AI certs
 
-<!---
-orgregar/orgregar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐍 Learning Python with a focus on ML applications
+
+🔧 Background in cloud infrastructure, cybersecurity, and hands-on lab platforms
+   (Azure, Terraform, Docker, CrowdStrike, Splunk)
+
+🌱 Currently: ML fundamentals, AWS AI certification, side projects in production
+
+📫 Connect with me on LinkedIn -> https://www.linkedin.com/in/gus-young-bab7411a4/
