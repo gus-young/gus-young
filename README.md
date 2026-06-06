@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gus-young)](https://git.io/streak-stats)
+
 👋 Hi, I'm Gus
 
 🤖 Focused on AI/ML engineering — working through the math fundamentals
