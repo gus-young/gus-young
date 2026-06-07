@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=gus-young&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gus-young&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 👋 Hi, I'm Gus
 
