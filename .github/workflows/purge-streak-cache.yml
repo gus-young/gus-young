@@ -1,0 +1,13 @@
+name: Purge Streak Stats Cache
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 9am CST daily
+  workflow_dispatch:  # allows manual trigger from GitHub UI
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Camo cache for streak stats
+        run: curl -X PURGE "https://camo.githubusercontent.com/b25a4c091b89704aa5a8cee7c66f6e9c904e207dd8c4ddc0570d317f8c858443/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d6775732d796f756e67267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565"
