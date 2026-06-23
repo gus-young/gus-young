@@ -3,7 +3,7 @@
 👋 Hi, I'm Gus
 
 🤖 Focused on AI/ML engineering — working through the math fundamentals
-   (linear algebra, calculus) and building toward AWS AI
+   (linear algebra, calculus) and building toward AWS AI Engineer
    Nvidia NCA-GENL Certified 
 
 🐍 Building ML engineering fundamentals in Python
