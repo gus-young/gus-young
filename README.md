@@ -14,4 +14,3 @@
 🌱 Currently: ML fundamentals, AWS AI certification, side projects in production
 
 📫 Connect with me on LinkedIn -> https://www.linkedin.com/in/gus-young-bab7411a4/
-
